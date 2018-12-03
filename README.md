@@ -29,6 +29,11 @@ Darbo dienos pabaigoje suformuotu ataskatia rodant, kur kiek laiko buvo praleist
 Naudiga ateity tam, kad issiaiskinti kuriuos procesus pirmiausia reikai automatizuoti ar ktiaip daryti.
 
 --------
+Kaip juo naudotis
+ka jis daro
+kaip valdyti
+---------
+
 
 Kriterijai projektui:
 
