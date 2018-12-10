@@ -20,7 +20,9 @@ Darbas pradžia - Darbas pabaiga.
 2. Darbas1
 Darbas1 pradžia - Darbas1 pabaiga.
 
+Papildomos sąlygos:
 Skaičiavimas automatiškai išsijungia po 18 val. darbo dienomis
+Vienu metu - vienas darbas
 
 Rezultatas
 ---
