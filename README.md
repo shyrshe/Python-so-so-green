@@ -46,7 +46,7 @@ ateity
 
 
 
-import time? -> date and time
+"import time? -> date and time
 current time - fiksuoti "start" ir "stop"
 kiek laiko truko darbas? --> print (val., min.)
 darbas x apibrezimas (ivesti ARBA pasirinkti)
@@ -63,7 +63,7 @@ darbo pradzia / pabaiga -naudojamas- current_time
 darbo trukme (pabaiga-pradzia) -->
     current_time(tik val ir min) konvertuoti i skaicius (60)
     aritmetiniai veiksmai
-    rezultata konvertuoti i valandas minutes (60)
+    rezultata konvertuoti i valandas minutes (60)"
 
 
 
