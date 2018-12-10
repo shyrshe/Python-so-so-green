@@ -46,24 +46,6 @@ ateity
 
 
 
-"import time? -> date and time
-current time - fiksuoti "start" ir "stop"
-kiek laiko truko darbas? --> print (val., min.)
-darbas x apibrezimas (ivesti ARBA pasirinkti)
-     if darbas egzistuoja ?
-     elif input ...?
-darbas dubliuojasi (kartojasi) - sumuoti laika
-fiksuoti:
-    darbo pradzia (yy/mm/dd, val, min)
-    darbo pabaiga (yy/mm/dd, val, min)
-    darbo trukme (val, min)
-
-
-darbo pradzia / pabaiga -naudojamas- current_time
-darbo trukme (pabaiga-pradzia) -->
-    current_time(tik val ir min) konvertuoti i skaicius (60)
-    aritmetiniai veiksmai
-    rezultata konvertuoti i valandas minutes (60)"
 
 
 
