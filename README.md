@@ -45,6 +45,11 @@ ateity
 3. sleep mode.
 
 
+---
+Nauda
+---
+optimizing, automating work - where to start 
+better planning
 
 
 
