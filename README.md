@@ -20,6 +20,8 @@ Darbas pradžia - Darbas pabaiga.
 2. Darbas1
 Darbas1 pradžia - Darbas1 pabaiga.
 
+Skaičiavimas automatiškai išsijungia po 18 val. darbo dienomis
+
 Rezultatas
 ---
 Formuoja ataskaitas 2 tipų:
