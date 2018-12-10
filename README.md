@@ -44,9 +44,8 @@ ateity
 2. automatizavimas - prorgamos nebereikia automatiškai junginėti pradedant/baigiant tam tikrus darbus. ji seka kas esamu metu yra active ir pati skaičiuoja laiką (outlook, naršyklė, powerpoint, etc.)
 3. sleep mode.
 
------------------------
-???
-----------------------
+
+
 # import time? -> date and time
 # current time - fiksuoti "start" ir "stop"
 # kiek laiko truko darbas? --> print (val., min.)
@@ -65,7 +64,7 @@ ateity
 #    current_time(tik val ir min) konvertuoti i skaicius (60)
 #    aritmetiniai veiksmai
 #    rezultata konvertuoti i valandas minutes (60)
------------------------
+
 
 
 
