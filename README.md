@@ -32,7 +32,8 @@ a) Kas kokiu darbo metu buvo daroma pagal valandas;
 b) Kiek laiko užtruko koks darbas (minutėmis/valandomis).
 
 
-------
+
+
 ateity
 ------
 1. dienos darbų planavimas:
@@ -42,6 +43,32 @@ ateity
 1.4. priminimas pertraukoms, jei prie xx darbo sėdima ilgiau negu yy laiko
 2. automatizavimas - prorgamos nebereikia automatiškai junginėti pradedant/baigiant tam tikrus darbus. ji seka kas esamu metu yra active ir pati skaičiuoja laiką (outlook, naršyklė, powerpoint, etc.)
 3. sleep mode.
+
+-----------------------
+???
+----------------------
+# import time? -> date and time
+# current time - fiksuoti "start" ir "stop"
+# kiek laiko truko darbas? --> print (val., min.)
+# darbas x apibrezimas (ivesti ARBA pasirinkti)
+#     if darbas egzistuoja ?
+#     elif input ...?
+# darbas dubliuojasi (kartojasi) - sumuoti laika
+# fiksuoti:
+#    darbo pradzia (yy/mm/dd, val, min)
+#    darbo pabaiga (yy/mm/dd, val, min)
+#    darbo trukme (val, min)
+
+
+# darbo pradzia / pabaiga -naudojamas- current_time
+# darbo trukme (pabaiga-pradzia) -->
+#    current_time(tik val ir min) konvertuoti i skaicius (60)
+#    aritmetiniai veiksmai
+#    rezultata konvertuoti i valandas minutes (60)
+-----------------------
+
+
+
 
 
 
