@@ -6,10 +6,11 @@ Seka darbų laiką.
 ---
 Kiek laiko dienoje skiriama xx darbam? Sukurti kategorijas. Pvz.:
 1. laiškų atsakymas;
-2. informacijos paiška/tikrinimas;
-3. informacijos paieška;
+2. informacijos paieška/tikrinimas;
+3. susitikimai;
 4. dokumentų ruošimas;
-5. etc.
+5. konsultacijos;
+6. etc.
 
 Kategorijos kintamos. Įvestos pagrindinės, kurias galima pasirinkti, su opcija įvesti papildomas.
 
