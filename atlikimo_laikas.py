@@ -21,13 +21,4 @@ if first_argument == 'pabaigti':
     now = datetime.datetime.strptime(now, '%Y-%m-%d %H:%M:%S.%f')
     pradeti = datetime.datetime.strptime(pradeti, '%Y-%m-%d %H:%M:%S.%f')
     print(now - pradeti)
-    
-
-
-
-
-
-
-
-
-
+   
